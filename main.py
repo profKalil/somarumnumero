@@ -1,6 +1,6 @@
 # Variaveis e valores
 num1 = 7
-num2 = 1
+num2 = 2
 
 # Processos
 soma = num1 + num2
